@@ -9,7 +9,7 @@ VERSION="1.4.3"
 TELEGRAMTOKEN="<your telegram token>";
 
 #chat id added for security reasons                                                                                                                                                                                                                                                                                                                      
-OWNERCHATID="95020744";
+OWNERCHATID="<your telegram owner chat id>";
 
 # how many seconds between check for new messages
 # or run Batbot with option: -c <seconds>
